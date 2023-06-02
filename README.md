@@ -1,2 +1,2 @@
 # very-basic-resume
-Hosted Link - https://harshittrivedi1234.github.io/very-basic-resume/index.html
+Hosted Link - https://harshittrivedi1234.github.io/very-basic-resume/
